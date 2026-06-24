@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there, I'm Ritesh Jadhav 👋<br><br>🎓 Student at Indian Institute of Information Technology Vadodara<br>💻 MERN Stack Developer exploring Machine Learning & AI<br>🚀 Passionate about building full-stack web applications and solving real-world problems<br>📚 Currently learning Data Science, Machine Learning, and Open Source Contribution<br>🛠️ Skilled in MongoDB, Express.js, React.js, Node.js, JavaScript, Git/GitHub,Java, and Python
+Hi there, I'm Ritesh Jadhav 👋<br><br>🎓 Student at Indian Institute of Information Technology Vadodara<br>💻 MERN Stack Developer exploring Machine Learning & AI<br>🚀 Passionate about building full-stack web applications and solving real-world problems<br>📚 Currently learning DSA,System Design,Machine Learning, and Open Source Contribution<br>🛠️ Skilled in MongoDB, Express.js, React.js, Node.js, JavaScript,Docker, Git/GitHub,Java, and Python
 
 
 ## 🌐 Socials:
